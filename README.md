@@ -13,4 +13,3 @@ Once you have successfully forked, cloned and branched your repository then you 
 
 ## Submissions
 - [Dean Whitehouse](https://github.com/DeanWhitehouse)
-- Add your clickable username here, it should point to your GitHub account - we will remove these at the end of the day.
